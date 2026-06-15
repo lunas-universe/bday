@@ -11,9 +11,9 @@
 <body>
     <div class="container">
         <div class="Mainprompt">
-            <img class="image" src="images/catflower.jpg"></img>
-            <h1 class="hh" id="name">Hey beautiful!</h1>
-            <p class="pp" id="question">Will you be my Valentine?</p>
+            <img class="image" src="/Users/melis/Downloads/images/imageneed1.jpg"></img>
+            <h1 class="hh" id="name">Hey beautiful! Happy Half Bday :D</h1>
+            <p class="pp" id="question">will you come to disneyland with me?</p>
             <div class="buttons">
                 <button id="no-button" onclick="showMessage('No')">No</button>
                 <button onclick="showMessage('Yes')" id="yesButton">Yes</button>
@@ -22,11 +22,10 @@
                 <p>Nice try, but you can't escape that easily!</p>
             </div>
             <div class="hidden-message" id="yes-message">
-                <p>YAY! See you on the 14th, babygirl.</p>
-            </div>
+                <p>YAY! pick any date u will be free i cant wait
         </div>
     </div>
-    <script src="script.js"></script>
+    <script src="/Users/melis/Downloads/code/script.js "></script>
 </body>
 
 </html>
